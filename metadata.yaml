@@ -1,0 +1,32 @@
+_repo: Memorials-of-old-Derbyshire_69017
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cox, J. Charles (John Charles)
+    alias: Cox, John Charles
+    birthdate: 1843
+    deathdate: 1919
+    gutenberg_agent_id: '45942'
+    url: http://www.gutenberg.org/2009/agents/45942
+    wikipedia: https://en.wikipedia.org/wiki/John_Charles_Cox
+description: ''
+gutenberg_issued: '2022-09-20'
+identifiers:
+  gutenberg: '69017'
+language: en
+pgterms:marc904: https://archive.org/details/memorialsofoldde00coxjuoft/page/n9
+pgterms:marc905: 20190321163748cox
+pgterms:marc906: '1907'
+pgterms:marc907: GB
+production_note: Tim Lindell, Chris Jordan, George Peabody Library (Johns Hopkins
+  University) and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :Bemrose and Sons Ltd.,1907.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memorials of old Derbyshire
+url: http://www.gutenberg.org/ebooks/69017
